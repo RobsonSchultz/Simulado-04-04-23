@@ -1,0 +1,45 @@
+header {
+    padding: 0 33%;
+}
+
+main {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    padding: 0 33%;
+}
+
+main img {
+    padding: 0 0 5px;
+}
+
+#botao {
+    padding: 0 50%;
+    width: 100px;
+}
+
+#video {
+    display: flex;
+    justify-content: center;
+    padding: 10px 10px 0 40px;
+}
+
+#video p {
+    padding: 70px 20px 0 75px;
+    font-weight: 600;
+}
+
+#video iframe {
+    padding: 0 0 0 20px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(66, 66, 66);
+}
+
+footer a {
+    padding: 20px;
+    color: white;
+}
